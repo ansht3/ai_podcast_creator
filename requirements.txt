@@ -1,0 +1,5 @@
+requests>=2.25.0
+beautifulsoup4>=4.9.3
+newspaper3k>=0.2.8
+gTTS>=2.2.3
+schedule>=1.1.0
